@@ -1,0 +1,392 @@
+[
+    {
+        "model": "main.movie",
+        "pk": 6,
+        "fields": {
+            "name": "Побег из Шоушенка",
+            "slug": "The-Shawshank-Redemption",
+            "year": "1994",
+            "during": 154,
+            "grade": 9,
+            "description": "Tempora sed etincidunt velit ut aliquam adipisci quaerat. Ipsum ut porro amet ipsum. Amet non quisquam non dolor quiquia. Porro adipisci dolorem non voluptatem numquam aliquam quaerat. Dolorem est velit labore velit sit modi. Adipisci quisquam aliquam dolore.",
+            "category": 2
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 7,
+        "fields": {
+            "name": "Криминальное чтиво",
+            "slug": "Pulp-Fiction",
+            "year": "1994",
+            "during": 92,
+            "grade": 6,
+            "description": "Etincidunt sed amet sed est neque consectetur. Numquam labore voluptatem porro ut. Est ipsum sed numquam est adipisci. Ipsum velit sit quisquam. Eius aliquam tempora magnam magnam dolorem.",
+            "category": 2
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 8,
+        "fields": {
+            "name": "Молчание ягнят",
+            "slug": "The-Silence-of-the-Lambs",
+            "year": "1991",
+            "during": 101,
+            "grade": 6,
+            "description": "Dolor modi eius neque etincidunt voluptatem. Quaerat dolorem adipisci dolore dolorem. Dolor quiquia etincidunt quaerat eius dolor ut sit. Aliquam etincidunt adipisci ipsum. Dolore magnam ut eius magnam quiquia modi. Modi sed adipisci magnam quaerat etincidunt etincidunt. Quiquia quisquam neque non dolore numquam. Aliquam non voluptatem numquam.",
+            "category": 4
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 9,
+        "fields": {
+            "name": "Унесенные призраками",
+            "slug": "Spirited-Away",
+            "year": "2001",
+            "during": 138,
+            "grade": 10,
+            "description": "Dolore consectetur aliquam velit est quaerat velit. Porro neque dolor porro porro consectetur. Sit etincidunt velit ut ipsum consectetur. Dolore est consectetur dolorem dolore voluptatem etincidunt dolor. Neque eius porro consectetur tempora amet. Eius dolorem neque numquam numquam tempora. Quiquia adipisci etincidunt ut quisquam numquam amet.",
+            "category": 2
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 10,
+        "fields": {
+            "name": "Назад в будущее",
+            "slug": "Back-to-the-Future",
+            "year": "1985",
+            "during": 63,
+            "grade": 8,
+            "description": "Est sed est non sed. Quiquia labore porro amet labore. Sed tempora magnam adipisci sit. Dolorem amet ut velit non. Ipsum non ut non consectetur. Est ipsum dolorem etincidunt tempora quiquia aliquam quaerat. Adipisci quiquia dolor non etincidunt porro quaerat. Dolore amet neque labore etincidunt. Ut amet porro dolorem aliquam velit eius dolore.",
+            "category": 4
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 11,
+        "fields": {
+            "name": "Леон",
+            "slug": "Leon",
+            "year": "1994",
+            "during": 145,
+            "grade": 3,
+            "description": "Tempora labore numquam amet est. Porro adipisci labore amet non quisquam tempora. Est quiquia neque velit quaerat. Neque dolor ut consectetur quaerat numquam. Neque aliquam consectetur porro velit aliquam quiquia. Quisquam sed etincidunt dolore numquam. Modi tempora ipsum amet porro. Tempora aliquam porro aliquam magnam amet.",
+            "category": 2
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 12,
+        "fields": {
+            "name": "Принцесса Мононоке",
+            "slug": "Princess-Mononoke",
+            "year": "1997",
+            "during": 114,
+            "grade": 8,
+            "description": "Ut aliquam magnam ut quaerat dolore magnam. Sit amet amet eius magnam consectetur. Amet labore ut neque quisquam tempora. Porro porro non ipsum est dolore ipsum. Neque quaerat magnam sed. Consectetur non dolore etincidunt. Dolore quaerat etincidunt magnam sit aliquam quiquia. Adipisci etincidunt quaerat tempora dolorem porro voluptatem quiquia. Dolore labore voluptatem consectetur sit modi voluptatem.",
+            "category": 2
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 13,
+        "fields": {
+            "name": "Красота по-американски",
+            "slug": "American-Beauty",
+            "year": "1999",
+            "during": 70,
+            "grade": 7,
+            "description": "Etincidunt ut magnam neque numquam. Tempora est numquam eius. Eius dolor sit consectetur tempora modi. Numquam porro voluptatem numquam. Dolor etincidunt etincidunt labore aliquam ut aliquam. Ipsum sit porro ipsum dolorem.",
+            "category": 3
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 14,
+        "fields": {
+            "name": "Вечное сияние чистого разума",
+            "slug": "Eternal-Sunshine-of-the-Spotless-Mind",
+            "year": "2004",
+            "during": 92,
+            "grade": 9,
+            "description": "Neque est labore dolore. Aliquam quisquam labore adipisci modi quiquia. Ipsum dolore dolore tempora neque quaerat non. Sed consectetur est amet tempora voluptatem etincidunt. Ut dolorem aliquam sed dolore.",
+            "category": 2
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 15,
+        "fields": {
+            "name": "Унесенные ветром",
+            "slug": "Gone-with-the-Wind",
+            "year": "1939",
+            "during": 157,
+            "grade": 6,
+            "description": "Amet quisquam voluptatem tempora amet. Voluptatem labore non sed amet eius adipisci aliquam. Dolor ut etincidunt voluptatem. Quaerat porro labore adipisci dolorem est dolorem ipsum. Neque est porro ipsum modi adipisci dolorem. Amet aliquam tempora non eius eius voluptatem. Neque dolorem dolorem modi. Est amet ut consectetur aliquam dolore velit eius. Aliquam quisquam porro eius non ipsum. Voluptatem quisquam quaerat tempora quiquia non.",
+            "category": 2
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 16,
+        "fields": {
+            "name": "Мой сосед Тоторо",
+            "slug": "My-Neighbor-Totoro",
+            "year": "1988",
+            "during": 178,
+            "grade": 2,
+            "description": "Neque quaerat neque aliquam. Quaerat neque ut porro quiquia ut voluptatem dolorem. Etincidunt sed neque non sit non sed. Quaerat dolore dolor porro ipsum quiquia tempora. Dolore quiquia eius est. Numquam velit dolor dolorem ipsum quiquia non. Quaerat tempora dolor est dolore porro quisquam. Dolore ut labore aliquam dolor consectetur velit quiquia. Neque magnam aliquam porro. Modi amet ipsum dolor magnam porro sit.",
+            "category": 2
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 17,
+        "fields": {
+            "name": "Фарго",
+            "slug": "Fargo",
+            "year": "1996",
+            "during": 110,
+            "grade": 4,
+            "description": "Non aliquam dolorem non amet est voluptatem ipsum. Aliquam labore eius etincidunt eius. Quisquam aliquam neque est. Porro porro quiquia est ipsum. Labore consectetur sit quaerat labore dolorem dolor consectetur. Consectetur voluptatem dolor ipsum sit dolor eius. Adipisci quaerat magnam consectetur. Non consectetur aliquam non ipsum labore amet. Neque amet voluptatem amet porro quisquam sit amet. Quiquia sed etincidunt amet consectetur modi ipsum labore.",
+            "category": 4
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 18,
+        "fields": {
+            "name": "Бешеный бык",
+            "slug": "Raging-Bull",
+            "year": "1980",
+            "during": 77,
+            "grade": 4,
+            "description": "Sit quisquam adipisci non dolore sit consectetur. Quaerat consectetur sed ut etincidunt dolorem. Porro ipsum numquam quaerat. Modi porro quaerat voluptatem porro. Ut dolor amet etincidunt voluptatem dolorem labore labore. Dolor sed numquam voluptatem.",
+            "category": 2
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 19,
+        "fields": {
+            "name": "Звуки музыки",
+            "slug": "The-Sound-of-Music",
+            "year": "1965",
+            "during": 129,
+            "grade": 5,
+            "description": "Non amet aliquam velit eius ut sed. Voluptatem tempora neque velit. Eius sed dolorem dolorem. Quiquia numquam tempora sed labore. Etincidunt non aliquam quaerat porro voluptatem. Adipisci etincidunt voluptatem dolore neque magnam. Velit quiquia neque sed quisquam quiquia. Non porro velit quaerat amet modi dolore magnam. Quiquia porro eius dolore dolorem aliquam dolor modi. Magnam porro dolore amet quisquam sit.",
+            "category": 2
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 20,
+        "fields": {
+            "name": "Выживший",
+            "slug": "The-Revenant",
+            "year": "2015",
+            "during": 163,
+            "grade": 4,
+            "description": "Quisquam voluptatem modi ipsum amet non. Non magnam est sit adipisci. Modi sed porro neque dolore aliquam porro magnam. Velit ipsum consectetur ipsum ipsum aliquam. Aliquam dolor tempora porro dolorem ut tempora.",
+            "category": 3
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 21,
+        "fields": {
+            "name": "Небесный замок Лапута",
+            "slug": "Castle-in-the-Sky",
+            "year": "1986",
+            "during": 165,
+            "grade": 10,
+            "description": "Magnam voluptatem dolorem est quiquia consectetur quiquia dolor. Numquam labore porro consectetur quiquia modi. Sit est non adipisci dolore non. Quisquam velit modi dolore quisquam neque neque quaerat. Sed tempora tempora voluptatem consectetur sit. Eius porro dolorem velit. Adipisci dolorem non amet est porro.",
+            "category": 4
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 22,
+        "fields": {
+            "name": "Чунгкингский экспресс",
+            "slug": "Chungking-Express",
+            "year": "1994",
+            "during": 86,
+            "grade": 2,
+            "description": "Consectetur velit est quisquam quisquam labore dolorem. Labore dolore dolorem est dolorem sit non adipisci. Adipisci non aliquam numquam sit consectetur adipisci quisquam. Sed non sed labore ut est. Adipisci non quiquia velit neque neque. Adipisci magnam quisquam ipsum voluptatem. Est etincidunt tempora velit numquam. Dolor dolor amet velit quisquam eius. Quiquia voluptatem voluptatem est non.",
+            "category": 4
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 23,
+        "fields": {
+            "name": "Бедные-несчастные",
+            "slug": "Poor-Things",
+            "year": "2023",
+            "during": 122,
+            "grade": 9,
+            "description": "Sit dolore labore est dolore dolorem voluptatem. Dolorem etincidunt quiquia ipsum. Ipsum modi magnam neque est dolorem voluptatem. Labore quaerat modi quiquia ut sit amet. Quisquam neque dolore voluptatem numquam quaerat.",
+            "category": 1
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 24,
+        "fields": {
+            "name": "Любовь",
+            "slug": "Amour",
+            "year": "2012",
+            "during": 161,
+            "grade": 1,
+            "description": "Magnam quisquam labore ipsum voluptatem tempora. Velit aliquam dolor porro. Etincidunt velit dolorem tempora. Quisquam dolor ipsum dolore sed. Numquam aliquam quisquam labore est modi. Aliquam adipisci sed tempora labore sit etincidunt modi. Ipsum neque dolorem eius etincidunt labore magnam neque.",
+            "category": 1
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 25,
+        "fields": {
+            "name": "Артист",
+            "slug": "The-Artist",
+            "year": "2011",
+            "during": 164,
+            "grade": 6,
+            "description": "Ipsum dolore non ipsum porro. Est neque modi tempora numquam amet labore quisquam. Dolorem magnam magnam adipisci consectetur dolorem. Tempora sed eius amet voluptatem labore quisquam. Voluptatem quiquia adipisci etincidunt eius voluptatem labore. Sed quaerat magnam est numquam dolore. Ipsum quisquam ipsum numquam non eius magnam. Non est amet neque non. Adipisci est ipsum porro quisquam quisquam. Sit sit dolorem dolore non dolore labore.",
+            "category": 1
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 26,
+        "fields": {
+            "name": "Бесподобный мистер Фокс",
+            "slug": "Fantastic-Mr.-Fox",
+            "year": "2009",
+            "during": 61,
+            "grade": 8,
+            "description": "Sed velit ipsum neque magnam velit dolorem. Ut tempora quisquam tempora modi numquam dolorem dolore. Quaerat eius quaerat quaerat. Quisquam eius modi velit numquam tempora dolorem sed. Quaerat est velit non sit. Ipsum voluptatem tempora porro tempora aliquam non quaerat. Sed sit ipsum quisquam. Numquam labore dolor sed sed dolore eius. Modi eius magnam velit.",
+            "category": 2
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 27,
+        "fields": {
+            "name": "Призрак в доспехах",
+            "slug": "Kôkaku-Kidôtai",
+            "year": "1995",
+            "during": 105,
+            "grade": 3,
+            "description": "Ut voluptatem aliquam neque. Ut ut voluptatem non adipisci dolore quiquia. Adipisci dolore quaerat ut voluptatem quaerat. Velit dolorem sit est etincidunt dolore non. Sed dolore consectetur voluptatem est est sit. Consectetur amet labore ipsum quiquia ut sit quiquia.",
+            "category": 3
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 28,
+        "fields": {
+            "name": "Вся президентская рать",
+            "slug": "All-the-President's-Men",
+            "year": "1976",
+            "during": 123,
+            "grade": 6,
+            "description": "Quiquia neque sed dolorem voluptatem neque. Tempora etincidunt non porro sed sed porro. Quisquam consectetur magnam magnam porro sed modi amet. Consectetur aliquam ipsum tempora dolor est. Amet etincidunt dolore etincidunt etincidunt tempora ut modi. Dolore quaerat neque quaerat voluptatem sit porro. Etincidunt etincidunt etincidunt modi dolorem adipisci adipisci ipsum. Modi tempora etincidunt adipisci adipisci velit.",
+            "category": 2
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 29,
+        "fields": {
+            "name": "Ирландец",
+            "slug": "The-Irishman",
+            "year": "2019",
+            "during": 154,
+            "grade": 6,
+            "description": "Dolorem consectetur voluptatem porro non dolor est quiquia. Sed quisquam eius numquam numquam ipsum. Labore eius quiquia labore quaerat. Adipisci ipsum neque velit aliquam etincidunt sed. Consectetur etincidunt quisquam consectetur sit sit amet.",
+            "category": 4
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 30,
+        "fields": {
+            "name": "Манускрипт ниндзя",
+            "slug": "Jûbê-ninpûchô",
+            "year": "1993",
+            "during": 106,
+            "grade": 7,
+            "description": "Adipisci velit amet consectetur. Dolorem etincidunt aliquam modi dolor est velit. Consectetur neque magnam eius dolore modi voluptatem ut. Porro consectetur adipisci non aliquam labore sit dolorem. Neque neque voluptatem sit. Aliquam numquam labore quisquam eius velit dolorem quiquia. Amet amet velit aliquam quiquia eius. Ut dolorem tempora ut ipsum adipisci. Magnam consectetur quisquam quaerat sit adipisci.",
+            "category": 3
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 31,
+        "fields": {
+            "name": "Шепот сердца",
+            "slug": "Mimi-wo-sumaseba",
+            "year": "1995",
+            "during": 105,
+            "grade": 3,
+            "description": "Magnam ipsum non velit amet consectetur. Est dolore labore consectetur quisquam sed. Ipsum eius etincidunt aliquam adipisci dolore sit consectetur. Quiquia quiquia neque labore velit labore ipsum eius. Eius non etincidunt porro eius.",
+            "category": 3
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 32,
+        "fields": {
+            "name": "Все о моей матери",
+            "slug": "All-About-My-Mother",
+            "year": "1999",
+            "during": 136,
+            "grade": 8,
+            "description": "Est neque voluptatem labore non amet. Sed numquam magnam modi sit. Dolorem ut labore aliquam aliquam magnam dolore. Voluptatem amet aliquam dolorem. Ipsum quaerat non sit labore amet ipsum. Dolore voluptatem velit magnam magnam magnam quaerat consectetur. Dolor velit amet labore aliquam est. Quiquia quisquam sit magnam neque sed eius. Est aliquam adipisci voluptatem quaerat magnam. Adipisci labore neque sed est.",
+            "category": 3
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 33,
+        "fields": {
+            "name": "Симеон-пустынник",
+            "slug": "Simon-del-Desierto",
+            "year": "1965",
+            "during": 170,
+            "grade": 2,
+            "description": "Tempora sit sit sed. Labore ipsum amet etincidunt etincidunt dolor non. Consectetur consectetur labore quiquia voluptatem etincidunt. Velit quaerat labore amet labore. Magnam dolore ut labore eius. Etincidunt sed aliquam neque dolore sit ipsum. Ipsum consectetur est dolore ipsum est eius ut. Tempora porro etincidunt non consectetur dolorem. Non modi ipsum consectetur aliquam dolore sit.",
+            "category": 4
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 34,
+        "fields": {
+            "name": "Крамер против Крамера",
+            "slug": "Kramer-vs.-Kramer",
+            "year": "1979",
+            "during": 131,
+            "grade": 7,
+            "description": "Amet ut tempora ut. Numquam modi aliquam voluptatem aliquam est ipsum. Porro consectetur eius amet etincidunt dolor. Velit aliquam adipisci consectetur numquam. Etincidunt quiquia sit adipisci ut magnam etincidunt porro.",
+            "category": 1
+        }
+    },
+    {
+        "model": "main.movie",
+        "pk": 35,
+        "fields": {
+            "name": "Великолепная семерка",
+            "slug": "The-Magnificent-Seven",
+            "year": "1960",
+            "during": 144,
+            "grade": 10,
+            "description": "Adipisci voluptatem dolorem porro sit voluptatem eius aliquam. Adipisci voluptatem ut porro velit aliquam labore porro. Etincidunt sit sit etincidunt porro dolor. Etincidunt modi magnam dolore. Aliquam magnam quisquam consectetur voluptatem quaerat quiquia.",
+            "category": 3
+        }
+    }
+]
